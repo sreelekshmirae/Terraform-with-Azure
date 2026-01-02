@@ -13,6 +13,11 @@
 - [ ] Yes
 - [ ] No
 
+## ❌ If 'No', why?
+- [ ] No testing required
+- [ ] Manual work done
+- [ ] Work done on other file/documentation
+
 ## ✅ Checklist
 <!-- Ensure all items are checked before requesting review -->
 - [ ] Self-review completed
