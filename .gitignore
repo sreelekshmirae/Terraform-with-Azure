@@ -35,3 +35,5 @@ terraform.rc
 */.ssh
 
 */.terraform.lock.hcl
+
+day18/azure-qr-code
