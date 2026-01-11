@@ -22,5 +22,4 @@
 <!-- Ensure all items are checked before requesting review -->
 - [ ] Self-review completed
 - [ ] Relevant documentation updated
-- [ ] No sensitive information committed
 
