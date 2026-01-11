@@ -37,3 +37,9 @@ terraform.rc
 */.terraform.lock.hcl
 
 day18/azure-qr-code
+
+*.log
+
+../.DS_Store
+
+.terraform
